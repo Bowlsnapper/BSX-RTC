@@ -1,5 +1,6 @@
 # BSX-RTC
 Install instructions for the BSX-RTC (Real Time Clock)
+
 <img src="https://github.com/Bowlsnapper/BSX-RTC/blob/main/PXL_20250124_031137832.jpg" width=49% height=49%>
 
 
@@ -11,14 +12,17 @@ Cerbios 2.4.1 is needed for compatibilty and the mod can be configured using Pro
 
 # Installation
 For 1.0 - 1.4 consoles, the 3.3V stanby power is tapped using this SMD capacitor.
+
 <img src="https://github.com/Bowlsnapper/BSX-RTC/blob/main/1011Board.png" width=49% height=49%><img src="https://github.com/Bowlsnapper/BSX-RTC/blob/main/1214Board.png" width=51% height=51%>
 
 For 1.6 Consoles, the 5V tap can be pulled from the LPC port.
+
 <img src="https://github.com/Bowlsnapper/BSX-RTC/blob/main/1.6%20Install.png" width=49% height=49%>
 
 Ground can be hooked up to any ground point you see fit, but theoretically, you could use the ground from the BSX I2C hookup and only have one power lead to either 3.3 or 5V.
 
 You can connect the 3P "MB In" JST Connector on the RTC to the BSX Modchip's "MB I2C" connector and that is it for the I2C connection if you have a BSX modchip.
+
 <img src="https://github.com/Bowlsnapper/BSX-RTC/blob/main/PXL_20250202_061327993.jpg" width=49% height=49%>
 
 # Set-up (Without BSX or PrometheOS capable modchip)
