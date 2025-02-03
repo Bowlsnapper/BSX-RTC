@@ -11,7 +11,7 @@ The battery is only used when the console is unplugged and the DS3231 uses so li
 Cerbios 2.4.1 is needed for compatibilty and the mod can be configured using PrometheOS (or the PrometheOS XBE I have supplied if you do not have a chip capable of of running Prom) with its "RTC Expansion" feature. When the mod is programmed using the PrometheOS RTC Expansion manager, the "RUN" Led will illuminate, signalling that the mod is functioning correctly and that you are good to reassemble the console. 
 
 # Installation
-For 1.0 - 1.4 consoles, the 3.3V stanby power is tapped using this SMD capacitor.
+For 1.0 - 1.4 consoles, the 3.3V standby power is tapped using this SMD capacitor.
 
 <img src="https://github.com/Bowlsnapper/BSX-RTC/blob/main/1011Board.png" width=49% height=49%><img src="https://github.com/Bowlsnapper/BSX-RTC/blob/main/1214Board.png" width=51% height=51%>
 
