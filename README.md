@@ -34,5 +34,5 @@ Cerbios (2.4.1) Ini must be configured as so to take advantage of the mod:
 
 Run the PrometheOS-BSX.xbe and set the time in the RTC Expansion section. LED will blink when time has been set.
 
-Enjoy!
-<img src="https://github.com/Bowlsnapper/BSX-RTC/blob/main/PXL_20250202_061327993.jpg" width=49% height=49%>
+Enjoy
+<img src="!https://github.com/Bowlsnapper/BSX-RTC/blob/main/JST_Layouts.png" width=49% height=49%>
